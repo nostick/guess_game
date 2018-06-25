@@ -22,7 +22,7 @@ You just need to clone this repo
 git clone https://github.com/nostick/guess_game GuessGame
 ```
 
-###Testing
+### Testing
 So now you can start to play, remember you need to be inside GuessGame folder, so in order to test or start playing:
 ```shell
 cd GuessGame
